@@ -1,0 +1,6 @@
+API_TOKEN.txt
+*.csv
+*.pt
+*.pth
+/checkpoints/
+*.json

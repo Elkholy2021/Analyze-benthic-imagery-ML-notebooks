@@ -1,0 +1,14 @@
+
+api_token:
+  path: info/API_TOKEN.txt
+
+
+annotations:
+  annotations_dir: downloads/annotations.csv
+  download_dir: '/media/hassan/Data_vault1/datasets_hassan/Bridging-the-gap'
+  dataset_name: 'Tasmania' #'Tasmania' #Adventfjorden
+  which_set: "whole_frame_annotations" # point_annotations
+
+  annotation_set_id: 5868  #16447 #5868 
+  split_set_ratio: 0.25
+
