@@ -5,7 +5,7 @@ api_token:
 
 annotations:
   annotations_dir: downloads/annotations.csv
-  download_dir: '/media/hassan/Data_vault1/datasets_hassan/Bridging-the-gap'
+  download_dir: '/media/hassan/Bridging-the-gap'
   dataset_name: 'Tasmania' #'Tasmania' #Adventfjorden
   which_set: "whole_frame_annotations" # point_annotations
 
