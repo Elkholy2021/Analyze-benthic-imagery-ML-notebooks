@@ -17,6 +17,10 @@ conda env create -f environment.yml
 
 conda activate bridging-the-gap
 ```
+## Disclaimer
+This repository contains an early research prototype. It is not production-ready, and errors or limitations may exist.  
+In accordance with the BSD 3-Clause License, the names of the contributors may not be used to endorse or promote products derived from this software without specific prior written permission.  
+For details, see the [LICENSE](./LICENSE) file.
 
 
 
